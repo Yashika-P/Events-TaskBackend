@@ -18,6 +18,3 @@ Node.js (version >=14)
 MongoDB (local or cloud instance like MongoDB Atlas)
 A code editor like VSCode
 Setup the Backend
-Clone the backend repository:
-git clone https://github.com/Yashika-P/Events-Backend.git
-cd Events-Backend
